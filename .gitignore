@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Connected Office Web Application_User Acceptance Testing/.local
+/Connected Office Web Application_User Acceptance Testing/.objects
+/Connected Office Web Application_User Acceptance Testing/.project
+/Connected Office Web Application_User Acceptance Testing/.settings
+/Connected Office Web Application_User Acceptance Testing/.tmh
+/.vs
